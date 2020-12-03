@@ -68,7 +68,7 @@ nav .logo {
 }
 
 nav .logo img {
-    padding: 2rem 0;
+    padding: 4rem 0;
 }
 
 nav ul {
@@ -239,6 +239,11 @@ nav ul .header-button:hover a {
 
 #testimonial-section {
     background: #41e0d8;
+    background: linear-gradient(rgba(65, 224, 216, 0.924), rgba(65, 224, 216, 0.924)), url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
     padding-top: 20rem;
 }
 
