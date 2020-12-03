@@ -27,7 +27,7 @@ $(document).ready(function() {
         loop: true,
         touchDrag: true,
         lazyLoad: true,
-        // autoplay: true,
-        // autoplayTimeout: 5000
+        autoplay: true,
+        autoplayTimeout: 5000
     });
 })
